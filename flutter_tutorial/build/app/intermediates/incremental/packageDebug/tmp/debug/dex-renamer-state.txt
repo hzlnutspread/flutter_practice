@@ -1,0 +1,4 @@
+#Sun Dec 11 17:49:00 NZDT 2022
+base.0=C\:\\Users\\ken\\vscodeProjects\\App_development\\flutter_tutorial\\flutter_tutorial\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
